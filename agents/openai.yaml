@@ -1,0 +1,4 @@
+interface:
+  display_name: "YouTube Editing"
+  short_description: "Video editing, English captions and YouTube packaging"
+  default_prompt: "Use $youtube-editing to continue my video project, preserve my narration, add English subtitles, and prepare a verified 1080p export."
