@@ -15,6 +15,20 @@
 - Store an EDL with timeline in/out, source file, source in/out and topic. Generate chapter times from the final timeline, not from an earlier script.
 - Current-project constraints such as nine videos, 100 points or a 20-minute duration are parameters. Never embed the old GTA chronology or feature claims as verified facts in a future video.
 
+## Short test edits
+
+- When the user asks for a short test, preserve the completed project and create a separately saved test version. Use the requested source and duration; two minutes was this session's test length, not a universal target.
+- A continuous excerpt has no internal picture cuts. If the user asks to trim only the narration, preserve its normal speed and trim the requested audio section to the test duration. Explicitly describe any picture endpoint needed to produce the requested short preview. Do not change the source files.
+
+## Green/red subtitles and subtle grading
+
+- Use green for the visible English text and red for the active word; return completed words to green. Suggested starting colors are green `#54ed89` and red `#ff4b55`. A dark outline or small shadow supports contrast without adding a solid background box. Avoid additional text fill colors, neon glow and bouncing letters unless requested.
+- Keep cues short, with no more than two lines and safe margins. At 1080p, bold text around 58 px is a starting point; check actual width and readability in the exported frame rather than relying only on font size.
+- Align translated cues to the Hindi recording at its final playback speed. If reusing captions from a speed-adjusted master, convert their timestamps back to source time before applying a different narration speed or source offset.
+- English word order and word count differ from Hindi. Map highlights to the corresponding spoken meaning and review against the recording. Proportional timing across a translated cue is only an approximate preview; disclose that limitation and do not claim verified word-level synchronization. Do not mistake a regular animation rate for speech alignment.
+- For editors without per-word rich text, a green base caption plus a red overlay at the same word position can implement the effect. Show only the active red overlay, preserve exact font metrics and wrapping, and verify several words and line transitions in both editor and export. Prefer native word styling when supported to keep the timeline manageable.
+- Apply color grading to the footage before compositing captions. Start with modest contrast/saturation and slight warmth; inspect dark and bright scenes for crushed shadows, clipped highlights or unnatural skin tones. Match the editor and export treatment, and disclose differences if a fallback renderer cannot reproduce it exactly.
+
 ## Local rendering fallback
 
 When the task permits a local export, keep it consistent with the saved editor timeline and disclose the route. Do not claim it used the browser compositor if it did not.
