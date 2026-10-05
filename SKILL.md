@@ -11,13 +11,17 @@ Continue an existing production from its actual media and saved timeline. Delive
 
 - Communicate in English. Write titles, descriptions, chapter names, keywords, hashtags, thumbnail text and subtitles in English.
 - Preserve the supplied speaker and narration language. The established workflow is **Hindi speech with English subtitles**, not English dubbing or Hindi subtitles.
-- Subtitle style: **green text with only the current word highlighted red**, returning to green afterward. Use bold, readable text with a dark outline; no solid black background box or rainbow palette. See the caption timing guidance in `references/editing-and-export.md`.
+- When full subtitles are requested, use this subtitle style: **green text with only the current word highlighted red**, returning to green afterward. Use bold, readable text with a dark outline; no solid black background box or rainbow palette. See the caption timing guidance in `references/editing-and-export.md`.
 - When color grading is requested, use a subtle cinematic treatment with restrained saturation and contrast, readable shadows and natural skin tones. Keep grading below subtitle layers so the red/green text colors remain stable.
 - Mute source-video dialogue, commentary and music. Use one continuous narration track by default; add music only when requested and appropriately sourced.
 - Default YouTube delivery: **1920×1080, landscape 16:9**. Preserve an appropriate source frame rate, typically 30 fps for the established footage. Disclose upscaling when sources are 720p; do not describe it as recovered detail.
 - Prefer FableCut through a genuinely available MCP connection or supported browser workflow. Do not use Adobe for this user's workflow. Verify tools before claiming editor control. If a local render is used, describe it accurately.
 - Preserve an accepted long-form structure and target length. Do not substitute a shorter script or regenerate the voice by default. Twenty minutes and 100 details belonged to the GTA project; they are not mandatory for every new video.
 - Act on already authorized reversible work without repeated confirmations. Missing optional references should not block progress when the user says to proceed with available files.
+
+## Narration, anime countdowns and opening montages
+
+For anime lists, script revisions, Rekvon voice generation and trailer openings, read [references/anime-and-narration.md](references/anime-and-narration.md). The latest accepted anime opening uses selected trailer highlights without added text. Reveal rank and anime name briefly when its list entry begins.
 
 ## Continue or start an edit
 
@@ -37,7 +41,7 @@ For FableCut schema, rendering and verification, read [references/editing-and-ex
 - Align cues with the final audio speed. Readability improvements should not move claims into unrelated speech. Automated word timing and transcription are fallible; review uncertain names, numbers, omitted phrases and the ending against the recording.
 - Do not claim to have listened if only waveform or transcription checks were performed. If listening verification is incomplete, label the output a review cut and state the remaining limitation briefly.
 - Verify actual exported resolution, frame rate, duration, audio streams, missing media, timeline gaps, timing, and caption clipping. Decode the complete file when diagnosing corruption or audio interruption; sampled stills alone cannot establish full-video integrity.
-- Deliver the playable MP4, editable project with media dependencies explained, English SRT, chapter timestamps, credits and a concise review status when relevant. Save deliverables in the active workspace, using versioned names rather than replacing originals without reason.
+- Deliver the playable MP4, editable project with media dependencies explained, English SRT when subtitles are requested, chapter timestamps, credits and a concise review status when relevant. Save deliverables in the active workspace, using versioned names rather than replacing originals without reason.
 
 ## Metadata and thumbnails
 

@@ -2,7 +2,7 @@
 
 ## English upload package
 
-Deliver ready-to-copy English text even when the narration is Hindi. State "Hindi commentary with English subtitles" so the audience understands the language.
+Deliver ready-to-copy English text even when the narration is Hindi. State the actual narration language. Mention English subtitles only when present in the delivered video.
 
 - Recommend one strong title with the main search term near the beginning and a clear curiosity hook. Keep it faithful to the actual content. Do not convert reports into "confirmed features," call commentary a hands-on review, or guarantee click-through/search ranking.
 - Write the description's first two lines around the video's actual value. Follow with a concise topic summary, actual chapters, a relevant viewer question, subscribe invitation, date/scope context when material, and real source credits.
@@ -23,3 +23,7 @@ For a new thumbnail direction, the user liked choosing from **six distinct proto
 - The user wants a coherent game-specific premium appearance across subjects, lettering and background. Avoid unrelated generic stock styling, cluttered badges, fake gameplay HUDs, fabricated mechanics or a invented presenter facecam. Treat generated scenes as editorial key art, not proof of gameplay.
 - Keep key text clear of the lower-right duration badge and inside safe margins. Inspect wording, faces, hands, logo-like lettering, contrast and overall crop. Confirm actual pixel dimensions rather than assuming the generator honored a size request.
 - Save selected deliverables and their prompt/reference provenance in the workspace under versioned filenames. Check current YouTube thumbnail format, dimensions and file-size requirements before claiming a file is upload-ready; produce a suitable delivery copy when needed while preserving the original.
+
+## Accepted anime upload package
+
+Provide one recommended English title with the main topic near the beginning, a copy-ready description, final-timeline chapters, relevant keywords, a small hashtag set and a separate comma-separated tag list. Identify an early-season watchlist honestly. Do not promise clicks, claim Hindi dubbing when only commentary is Hindi, or advertise full subtitles when only rank titles are present. Check exact sequel/special labels before publishing the copy. Keep tags within the platform limit; do not stuff the description with repeated keyword blocks.

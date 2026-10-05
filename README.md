@@ -33,4 +33,8 @@ Then invoke:
 
 ## Requirements
 
-This repository contains instructions; it does not bundle FableCut, media, model weights or editing software. The executing agent needs suitable editor/browser tools and, when local rendering is used, a trusted FFmpeg installation. Image generation is needed only for generated thumbnail artwork. The skill checks available capabilities before selecting a route.
+This repository contains skill instructions and project-specific editing source examples; it does not bundle FableCut, media, model weights or editing software. The executing agent needs suitable editor/browser tools and, when local rendering is used, a trusted FFmpeg installation. Image generation is needed only for generated thumbnail artwork. The skill checks available capabilities before selecting a route.
+
+## Anime and narration workflow
+
+The skill now includes natural Devanagari Hindi script preparation, Rekvon narration, trailer-only hooks, source-matched countdown footage, scoped revisions, and English upload metadata. See `references/anime-and-narration.md`. The full anime editing source snapshot and timing plans are in `examples/anime_fall2026`; read its dependency notes before running any stage.

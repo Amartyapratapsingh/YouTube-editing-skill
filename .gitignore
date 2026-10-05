@@ -1,0 +1,14 @@
+__pycache__/
+*.pyc
+.env
+.env.*
+*.mp4
+*.mp3
+*.wav
+*.zip
+render_work/
+media/
+exports/
+models/
+*backup*.json
+project_before*.json

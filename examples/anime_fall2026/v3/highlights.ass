@@ -1,0 +1,52 @@
+[Script Info]
+ScriptType: v4.00+
+PlayResX: 1920
+PlayResY: 1080
+WrapStyle: 2
+ScaledBorderAndShadow: yes
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Arial,72,&H007BDAFF,&H007BDAFF,&H00141012,&H90000000,-1,0,0,0,100,100,0,0,1,3,2,5,90,90,90,1
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:48.20,0:00:53.90,Default,,0,0,0,,{\an7\pos(90,650)\p1\1c&H141012&\1a&H35&\bord0\shad0\fad(180,180)}m 0 0 l 1740 0 1740 290 0 290
+Dialogue: 0,0:01:27.90,0:01:33.60,Default,,0,0,0,,{\an7\pos(90,650)\p1\1c&H141012&\1a&H35&\bord0\shad0\fad(180,180)}m 0 0 l 1740 0 1740 290 0 290
+Dialogue: 0,0:02:06.77,0:02:12.47,Default,,0,0,0,,{\an7\pos(90,650)\p1\1c&H141012&\1a&H35&\bord0\shad0\fad(180,180)}m 0 0 l 1740 0 1740 290 0 290
+Dialogue: 0,0:02:41.87,0:02:47.57,Default,,0,0,0,,{\an7\pos(90,650)\p1\1c&H141012&\1a&H35&\bord0\shad0\fad(180,180)}m 0 0 l 1740 0 1740 290 0 290
+Dialogue: 0,0:03:20.57,0:03:26.27,Default,,0,0,0,,{\an7\pos(90,650)\p1\1c&H141012&\1a&H35&\bord0\shad0\fad(180,180)}m 0 0 l 1740 0 1740 290 0 290
+Dialogue: 0,0:03:55.87,0:04:01.57,Default,,0,0,0,,{\an7\pos(90,650)\p1\1c&H141012&\1a&H35&\bord0\shad0\fad(180,180)}m 0 0 l 1740 0 1740 290 0 290
+Dialogue: 0,0:04:36.77,0:04:42.47,Default,,0,0,0,,{\an7\pos(90,650)\p1\1c&H141012&\1a&H35&\bord0\shad0\fad(180,180)}m 0 0 l 1740 0 1740 290 0 290
+Dialogue: 0,0:05:14.60,0:05:20.30,Default,,0,0,0,,{\an7\pos(90,650)\p1\1c&H141012&\1a&H35&\bord0\shad0\fad(180,180)}m 0 0 l 1740 0 1740 290 0 290
+Dialogue: 0,0:05:51.43,0:05:57.13,Default,,0,0,0,,{\an7\pos(90,650)\p1\1c&H141012&\1a&H35&\bord0\shad0\fad(180,180)}m 0 0 l 1740 0 1740 290 0 290
+Dialogue: 0,0:06:28.73,0:06:34.43,Default,,0,0,0,,{\an7\pos(90,650)\p1\1c&H141012&\1a&H35&\bord0\shad0\fad(180,180)}m 0 0 l 1740 0 1740 290 0 290
+Dialogue: 1,0:00:48.20,0:00:53.90,Default,,0,0,0,,{\pos(245,795)\fs148\c&H7BDAFF&\fad(180,180)}10
+Dialogue: 1,0:00:48.20,0:00:53.90,Default,,0,0,0,,{\pos(1100,770)\fs70\c&H7BDAFF&\fad(180,180)}MY HAPPY MARRIAGE
+Dialogue: 1,0:00:48.30,0:00:53.90,Default,,0,0,0,,{\pos(1100,888)\fs32\c&HFFFFFF&\fad(180,180)}SPECIAL EPISODES
+Dialogue: 1,0:01:27.90,0:01:33.60,Default,,0,0,0,,{\pos(245,795)\fs148\c&H7BDAFF&\fad(180,180)}09
+Dialogue: 1,0:01:27.90,0:01:33.60,Default,,0,0,0,,{\pos(1100,770)\fs70\c&H7BDAFF&\fad(180,180)}CHITOSE IS IN THE\NRAMUNE BOTTLE
+Dialogue: 1,0:01:28.00,0:01:33.60,Default,,0,0,0,,{\pos(1100,888)\fs32\c&HFFFFFF&\fad(180,180)}PART 2
+Dialogue: 1,0:02:06.77,0:02:12.47,Default,,0,0,0,,{\pos(245,795)\fs148\c&H7BDAFF&\fad(180,180)}08
+Dialogue: 1,0:02:06.77,0:02:12.47,Default,,0,0,0,,{\pos(1100,770)\fs70\c&H7BDAFF&\fad(180,180)}RANMA 1/2
+Dialogue: 1,0:02:06.87,0:02:12.47,Default,,0,0,0,,{\pos(1100,888)\fs32\c&HFFFFFF&\fad(180,180)}SEASON 3
+Dialogue: 1,0:02:41.87,0:02:47.57,Default,,0,0,0,,{\pos(245,795)\fs148\c&H7BDAFF&\fad(180,180)}07
+Dialogue: 1,0:02:41.87,0:02:47.57,Default,,0,0,0,,{\pos(1100,770)\fs70\c&H7BDAFF&\fad(180,180)}SUPER TIMID NOBLE GIRL
+Dialogue: 1,0:02:41.97,0:02:47.57,Default,,0,0,0,,{\pos(1100,888)\fs32\c&HFFFFFF&\fad(180,180)}NEW SERIES
+Dialogue: 1,0:02:47.67,0:02:54.27,Default,,0,0,0,,{\pos(960,800)\fs48\c&H7BDAFF&\fad(180,180)}EVEN THOUGH I'M A SUPER TIMID NOBLE GIRL,\NI ACCEPTED THE BET FROM MY CUNNING FIANCE
+Dialogue: 1,0:03:20.57,0:03:26.27,Default,,0,0,0,,{\pos(245,795)\fs148\c&H7BDAFF&\fad(180,180)}06
+Dialogue: 1,0:03:20.57,0:03:26.27,Default,,0,0,0,,{\pos(1100,770)\fs70\c&H7BDAFF&\fad(180,180)}FROM FAR AWAY
+Dialogue: 1,0:03:20.67,0:03:26.27,Default,,0,0,0,,{\pos(1100,888)\fs32\c&HFFFFFF&\fad(180,180)}NEW SERIES
+Dialogue: 1,0:03:55.87,0:04:01.57,Default,,0,0,0,,{\pos(245,795)\fs148\c&H7BDAFF&\fad(180,180)}05
+Dialogue: 1,0:03:55.87,0:04:01.57,Default,,0,0,0,,{\pos(1100,770)\fs70\c&H7BDAFF&\fad(180,180)}THE SALTY KOHARU HAS\NA SOFT SPOT FOR ME
+Dialogue: 1,0:03:55.97,0:04:01.57,Default,,0,0,0,,{\pos(1100,888)\fs32\c&HFFFFFF&\fad(180,180)}NEW SERIES
+Dialogue: 1,0:04:36.77,0:04:42.47,Default,,0,0,0,,{\pos(245,795)\fs148\c&H7BDAFF&\fad(180,180)}04
+Dialogue: 1,0:04:36.77,0:04:42.47,Default,,0,0,0,,{\pos(1100,770)\fs70\c&H7BDAFF&\fad(180,180)}HELLO, I AM A WITCH
+Dialogue: 1,0:04:36.87,0:04:42.47,Default,,0,0,0,,{\pos(1100,888)\fs32\c&HFFFFFF&\fad(180,180)}NEW SERIES
+Dialogue: 1,0:05:14.60,0:05:20.30,Default,,0,0,0,,{\pos(245,795)\fs148\c&H7BDAFF&\fad(180,180)}03
+Dialogue: 1,0:05:14.60,0:05:20.30,Default,,0,0,0,,{\pos(1100,770)\fs70\c&H7BDAFF&\fad(180,180)}THE RAMPARTS OF ICE
+Dialogue: 1,0:05:14.70,0:05:20.30,Default,,0,0,0,,{\pos(1100,888)\fs32\c&HFFFFFF&\fad(180,180)}SEASON 2
+Dialogue: 1,0:05:51.43,0:05:57.13,Default,,0,0,0,,{\pos(245,795)\fs148\c&H7BDAFF&\fad(180,180)}02
+Dialogue: 1,0:05:51.43,0:05:57.13,Default,,0,0,0,,{\pos(1100,770)\fs70\c&H7BDAFF&\fad(180,180)}FIREFLY WEDDING
+Dialogue: 1,0:05:51.53,0:05:57.13,Default,,0,0,0,,{\pos(1100,888)\fs32\c&HFFFFFF&\fad(180,180)}DARK ROMANCE
+Dialogue: 1,0:06:28.73,0:06:34.43,Default,,0,0,0,,{\pos(245,795)\fs148\c&H7BDAFF&\fad(180,180)}01
+Dialogue: 1,0:06:28.73,0:06:34.43,Default,,0,0,0,,{\pos(1100,770)\fs70\c&H7BDAFF&\fad(180,180)}BLUE BOX
+Dialogue: 1,0:06:28.83,0:06:34.43,Default,,0,0,0,,{\pos(1100,888)\fs32\c&HFFFFFF&\fad(180,180)}SEASON 2
