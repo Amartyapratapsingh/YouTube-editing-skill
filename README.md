@@ -37,4 +37,6 @@ This repository contains skill instructions and project-specific editing source 
 
 ## Anime and narration workflow
 
+The established service URLs and their roles are documented in [Websites and tools](references/websites-and-tools.md), including Rekvon, FableCut, Grok, Reddit, X, YouTube and YTDown.
+
 The skill now includes natural Devanagari Hindi script preparation, Rekvon narration, trailer-only hooks, source-matched countdown footage, scoped revisions, and English upload metadata. See `references/anime-and-narration.md`. The full anime editing source snapshot and timing plans are in `examples/anime_fall2026`; read its dependency notes before running any stage.

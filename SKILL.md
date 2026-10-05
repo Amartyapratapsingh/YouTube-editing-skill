@@ -21,6 +21,8 @@ Continue an existing production from its actual media and saved timeline. Delive
 
 ## Narration, anime countdowns and opening montages
 
+For the established websites, exact URLs and service roles, read [references/websites-and-tools.md](references/websites-and-tools.md). This covers Rekvon audio, local FableCut editing, Grok/Reddit/X research, YouTube footage, YTDown downloads and the GitHub repository.
+
 For anime lists, script revisions, Rekvon voice generation and trailer openings, read [references/anime-and-narration.md](references/anime-and-narration.md). The latest accepted anime opening uses selected trailer highlights without added text. Reveal rank and anime name briefly when its list entry begins.
 
 ## Continue or start an edit
